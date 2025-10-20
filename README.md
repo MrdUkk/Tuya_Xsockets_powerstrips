@@ -1,7 +1,7 @@
 # About
 This a replacement custom made, firmware for ZigBee Tuya-ecosystem based power socket strips that's hardware is based on
-Tuya ZT3L or ZTU models chips only (in home automations its IEEE MAC address starts with a4:c1:38). 
-These modules contains TLSR8258 with 1M/512kB FLASH (Telink Semi TLSR8x-series microcontrollers).
+Tuya [ZT3L](https://developer.tuya.com/en/docs/iot/zt3l-module-datasheet?id=Ka438n1j8nuvu) or [ZTU](https://developer.tuya.com/en/docs/iot/ztu-module-datasheet?id=Ka45nl4ywgabp) models chips only (in home automations software its IEEE MAC address displayed starts with a4:c1:38). 
+These modules contains TLSR8258 with 1M FLASH (Telink Semi TLSR8x-series microcontrollers).
 
 
 # Description
@@ -147,3 +147,4 @@ Leaving manufacturer and model id original is a no-way to go because Home Assist
 
 ## Acknowledgements
 - [@slacky1965](https://github.com/slacky1965)
+
